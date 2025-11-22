@@ -69,6 +69,8 @@ $ns at 0.0 "$n1 label Receiver"
 $ns run
  
 # OUTPUT
+<img width="602" height="350" alt="image" src="https://github.com/user-attachments/assets/fd9ba37b-b691-40e2-8d8e-b8b85bba1808" />
+
 
 
 
